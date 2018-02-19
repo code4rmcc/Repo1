@@ -1,2 +1,3 @@
 # Repo1
-learning git
+I am learning how to work on git.
+Wish me good luck
